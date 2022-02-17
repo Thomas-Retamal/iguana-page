@@ -1,0 +1,83 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+.body {
+  background-color: #000;
+  font-family: "Raleway", sans-serif;
+}
+h1 {
+  text-align: center;
+}
+header {
+  color: #ffffff;
+  padding-top: 1rem;
+}
+.giro-section {
+  width: 1280px;
+  margin: 0% auto;
+}
+.desc-section {
+  width: 69%;
+  margin: 0% auto;
+}
+.parrafo {
+  color: #ffffff;
+
+  width: 39%;
+  height: 197px;
+  text-align: left;
+  float: left;
+  margin-left: 10px;
+  margin-top: 41px;
+}
+.iguana-1 {
+  height: 237px;
+  float: right;
+  width: 399px;
+}
+
+.icons-section {
+  color: #ffffff;
+  text-align: center;
+  background-color: #1e1a13;
+  width: 100%;
+  height: 348px;
+  margin-top: 20%;
+  padding-top: 3%;
+}
+
+.características {
+  width: 30%;
+  display: inline-block;
+  padding-top: 5%;
+}
+.icon-word {
+  text-align: center;
+  padding-top: 8%;
+}
+.iguanas {
+  width: 316px;
+  height: 202px;
+  margin: 0% auto;
+}
+.iguanas-2 {
+  display: inline-block;
+  padding-left: 2%;
+}
+.caja-galeria {
+  margin-top: 5%;
+  margin-left: 15%;
+}
+.footer {
+  color: #ffffff;
+  background-color: #1e1a13;
+  text-align: center;
+  width: 100%;
+  height: 102px;
+  margin-top: 5%;
+}
+.enlace {
+  padding-top: 3%;
+}
